@@ -1,0 +1,33 @@
+:root{
+    font-size: 150%;
+}
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    text-decoration: #000000;
+}
+
+figure{
+    text-align: center;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.name-section{
+    text-align: center;
+}
+
+.columns{
+    display: flex;
+    justify-content: space-between;
+
+    color: rgb(82, 82, 185);
+}
